@@ -6,7 +6,15 @@ https://www.youtube.com/watch?v=Qh1kfhqY6Bw&list=PLUsmdA1AjDARF3WtO2zVQZT8qmEhcM
 2021 workshop:
 https://www.youtube.com/watch?v=yrTnnN3KmB0&list=PLUsmdA1AjDAQrLKffnLfV9DRjOw6aX_J_  
 
+# Background.
 
+In increasing the use of the CFD platform, SimVascular, workshops that culminated
+in presentations by members of UWO+Lawson were led by SRK. The background is that
+the students were working on individual projects for image processing, model devel and use,
+and scientific dessimination.  
+
+I found it essential to undertake such workshops periodically to train larger numbers
+of persons,rather than just work with two junior developers (Tim and Jeri).
 
 # Maintainer.
 
