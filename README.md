@@ -18,6 +18,9 @@ This project was generously funded by CANARIE Inc. Canada (April 2020 to March 2
 
 # Licence.
 
+Although the workshops are provided opensource on the video channel, we will appreciate some
+acknowledgement devoid of which the material are not available for use.
+
 BSD 3-Clause License
 
 Copyright (c) 2023, Sanjay R. Kharche, Ph.D.
